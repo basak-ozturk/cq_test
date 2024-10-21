@@ -12,6 +12,6 @@ git status
 
 git add [file]
 
-##Git commit
+## Git commit
 
 git commit -m “[descriptive message]
