@@ -28,6 +28,6 @@ git add [file]
 
 ```sh
 
-git commit -m “[descriptive message]
+git commit -m [descriptive message]
 
 ```
